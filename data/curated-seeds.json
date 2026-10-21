@@ -1,0 +1,38 @@
+[
+  {
+    "seed": "HHhfff9BgW",
+    "type": "Speedrun / Close Bosses",
+    "description": "Eikthyr, Elder, and Bonemass all spawn on the starting starter continent within 1500m of spawn. Trader Haldor is located 800m East.",
+    "bosses": {
+      "eikthyr_m": 320,
+      "elder_m": 980,
+      "bonemass_m": 1420
+    },
+    "trader": "Haldor (East coast, 850m)",
+    "maypole": true
+  },
+  {
+    "seed": "wVJCZahxX8",
+    "type": "Maypole & Village Builder",
+    "description": "Pristine natural meadow harbor with a preserved Maypole right next to ocean access and copper deposits.",
+    "bosses": {
+      "eikthyr_m": 450,
+      "elder_m": 1800,
+      "bonemass_m": 2200
+    },
+    "trader": "Haldor (South, 1200m)",
+    "maypole": true
+  },
+  {
+    "seed": "DEEPNORTH1",
+    "type": "1.0 Deep North & Ashlands Explorer",
+    "description": "Optimized radial landmass generation for the 1.0 Deep North biome and southern Ashlands boundary exploration.",
+    "bosses": {
+      "eikthyr_m": 500,
+      "elder_m": 1400,
+      "bonemass_m": 1900
+    },
+    "trader": "Hildir (Northwest, 1100m)",
+    "maypole": false
+  }
+]
